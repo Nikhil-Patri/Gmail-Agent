@@ -21,7 +21,7 @@ Before you run this application, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/shivrajkhetri7/EmailAgent.git
+   https://github.com/Nikhil-Patri/Gmail-Agent.git
    ```
 
 2. Navigate to the project folder:
